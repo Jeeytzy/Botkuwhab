@@ -1,0 +1,11 @@
+{
+  "rolebronze": {
+    "bronze": "1.05"
+  },
+  "rolesilver": {
+    "silver": "1.1"
+  },
+  "rolegold": {
+    "gold": "1.03"
+  }
+}

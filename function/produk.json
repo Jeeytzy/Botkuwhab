@@ -1,0 +1,151 @@
+[
+  {
+    "produk": "Mobile Legends",
+    "cmd": "listml"
+  },
+  {
+    "produk": "Free Fire",
+    "cmd": "listff"
+  },
+     {
+    "produk": "product membership",
+    "cmd": "membership"
+  },
+  {
+    "produk": "Genshin Impact",
+    "cmd": "listgsn"
+  },
+  {
+    "produk": "Pubg Mobile",
+    "cmd": "listpubg"
+  },
+    {
+    "produk": "FC Mobile",
+    "cmd": "listfcm"
+  },
+  {
+    "produk": "Life After",
+    "cmd": "listliftafter"
+  },
+  {
+    "produk": "Call of Duty",
+    "cmd": "listcodm"
+  },
+  {
+    "produk": "Undawn",
+    "cmd": "listundwn"
+  },
+  {
+    "produk": "Arena Of Valor",
+    "cmd": "listaov"
+  },
+  {
+    "produk": "Honkai Star Rail",
+    "cmd": "listhsr"
+  },
+  {
+    "produk": "Eggy Party",
+    "cmd": "listeggy"
+  },
+ {
+    "produk": "Ethernal City",
+    "cmd": "listec"
+  },
+  {
+    "produk": "Point Blank",
+    "cmd": "listpb"
+  },
+  {
+    "produk": "Clash Of Clans",
+    "cmd": "listcoc"
+  },
+  {
+    "produk": "Zepeto",
+    "cmd": "listzpt"
+  },
+  {
+    "produk": "Hago",
+    "cmd": "listhago"
+  },
+ {
+    "produk": "Lost Saga",
+    "cmd": "listls"
+  },
+  {
+    "produk": "Metal Slug Awakening",
+    "cmd": "listms"
+  },
+  {
+    "produk": "Ace Race",
+    "cmd": "listacr"
+  },
+ {
+    "produk": "SausageMan",
+    "cmd": "listsman"
+  },
+  {
+    "produk": "Valorant",
+    "cmd": "listvr"
+  },
+{
+    "produk": "Stumble Guys",
+    "cmd": "listsg"
+  },
+  {
+    "produk": "Astral Guardian",
+    "cmd": "listaa"
+  },
+  {
+    "produk": "Harry Potter Magic",
+    "cmd": "listhp"
+  },
+  {
+    "produk": "Lita",
+    "cmd": "listlita"
+  },
+    {
+    "produk": "Voucher Garena",
+    "cmd": "garena"
+  },
+    {
+    "produk": "Spotify",
+    "cmd": "listspotify"
+  },
+  {
+    "produk": "Telkomsel",
+    "cmd": "Telkomsel"
+  },
+  {
+    "produk": "Xl Axiata",
+    "cmd": "listxl"
+  },
+  {
+    "produk": "Smartfren",
+    "cmd": "listsmart"
+  },
+  {
+    "produk": "Axis",
+    "cmd": "listaxis"
+  },
+  {
+    "produk": "Indosat",
+    "cmd": "indosat"
+  },
+  {
+    "produk": "Tri",
+    "cmd": "listtri"
+  },
+  {
+    "produk": "Token PLN",
+    "cmd": "listpln"
+  },
+  {
+    "produk": "Dana",
+    "cmd": "listdana"
+  },
+  {
+    "produk": "GoPay",
+    "cmd": "listgopay"
+  }
+  
+]
